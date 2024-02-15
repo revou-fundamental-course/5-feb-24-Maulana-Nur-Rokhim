@@ -1,0 +1,19 @@
+.input{
+    display:flex ;
+    flex-direction: column;
+    padding: 10px 20px;
+}
+.input-celsius{
+    width: 500px;
+    outline: none;
+    border-radius: 8px;
+    padding: 50px 10px;
+}
+.input-fahrenheit{
+    width: 500px;
+    outline: none;
+    border-radius: 8px;
+    padding: 50px 10px;
+}
+
+
